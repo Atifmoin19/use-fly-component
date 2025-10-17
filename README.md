@@ -127,8 +127,10 @@ It’s responsible for managing the clone container and must be rendered at leas
 ---
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/p/devbox/sparkling-sun-3dszmd?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-black?logo=github)](https://github.com/Atifmoin19/use-fly-component)
 
-👉 **Live demo** on CodeSandbox:  
-https://codesandbox.io/p/devbox/sparkling-sun-3dszmd?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L
+👉 **Live demo** on [CodeSandbox](https://codesandbox.io/p/devbox/sparkling-sun-3dszmd?workspaceId=ws_GLzXiGXYtnVTg5vXTiP71L)
+
+- 📂 **Source Code**: [GitHub Repository](https://github.com/Atifmoin19/use-fly-component)
 
 ---
